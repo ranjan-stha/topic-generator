@@ -16,8 +16,6 @@ setup(
         "bertopic",
         "umap-learn",
         "hdbscan",
-        "spacy",
-        "gensim",
         "scikit-learn"
         ],
 
