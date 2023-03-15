@@ -11,7 +11,7 @@ setup(
     include_package_data=True,
 
     install_requires=[
-        "numpy==1.24.2",
+        "numpy==1.20.0",
         "pandas",
         "bertopic",
         "umap-learn",
